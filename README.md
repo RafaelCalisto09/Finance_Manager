@@ -9,7 +9,7 @@ Expense Manager is a Python-based application designed to help users manage thei
 
 **Budget Management:** Set and monitor budgets for each expense category.
 
-***Detailed Reports:** View summaries of total expenses, total income, and remaining budget.
+**Detailed Reports:** View summaries of total expenses, total income, and remaining budget.
 
 **User-Friendly Interface:** Interact with the application through a simple text-based interface.
 
